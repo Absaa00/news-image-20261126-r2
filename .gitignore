@@ -1,0 +1,12 @@
+# news-image-20261126-r2: keep the repo to source only.
+# Generated pictures and local run outputs stay out of git.
+entry.png
+/output/
+out/
+*.pyc
+__pycache__/
+.pytest_cache/
+*.tar.gz
+*.log
+.DS_Store
+Thumbs.db
